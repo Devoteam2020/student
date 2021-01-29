@@ -1,0 +1,7 @@
+- name: My First Play from Github
+  hosts: all
+  tasks:
+    - name: Doing Ping to Hosts
+      ping:
+        data: "Received PONG"
+    
