@@ -4,4 +4,6 @@
     - name: Doing Ping to Hosts
       ping:
         data: "Received PONG"
-    
+    - name: Debuggin Something
+      debug:
+         msg: "Hello From The Second Tasks Here!!"
