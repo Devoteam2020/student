@@ -1,0 +1,8 @@
+---
+my_tower_username: admin
+my_tower_password: ansible
+my_tower_host: 3.14.245.196
+# demo: all
+# demo: developer_report
+demo: fact_scan
+workshop_type: f5

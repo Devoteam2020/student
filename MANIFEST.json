@@ -1,0 +1,49 @@
+{
+ "collection_info": {
+  "description": "repository of demos to showcase Ansible features.", 
+  "repository": "http://github.com/ansible/product-demos", 
+  "tags": [
+   "apache", 
+   "centos", 
+   "rhel", 
+   "el", 
+   "amazon", 
+   "linux", 
+   "fedora", 
+   "network", 
+   "f5", 
+   "developer", 
+   "infrastructure", 
+   "security", 
+   "windows", 
+   "opencap", 
+   "insights", 
+   "patching", 
+   "tower", 
+   "awx"
+  ], 
+  "dependencies": {}, 
+  "authors": [
+   "Sean Cavanaugh <seanc@redhat.com> @IPvSean"
+  ], 
+  "issues": "https://github.com/ansible/product-demos/issues", 
+  "name": "product_demos", 
+  "license": [
+   "GPL-3.0-or-later"
+  ], 
+  "documentation": "http://github.com/ansible/product-demos", 
+  "namespace": "ansible", 
+  "version": "1.0.5", 
+  "readme": "README.md", 
+  "license_file": "LICENSE", 
+  "homepage": "http://github.com/ansible/product-demos"
+ }, 
+ "file_manifest_file": {
+  "format": 1, 
+  "ftype": "file", 
+  "chksum_sha256": "0158e651a2b975802e106bf81826bcf956ca3a0bbf3ad42ac22b9cb9313748f9", 
+  "name": "FILES.json", 
+  "chksum_type": "sha256"
+ }, 
+ "format": 1
+}

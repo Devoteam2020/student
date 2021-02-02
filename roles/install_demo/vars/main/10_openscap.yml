@@ -1,0 +1,21 @@
+---
+openscap:
+  author: "Sean Cavanaugh"
+  category: security
+  name: "Create Openscap Report"
+  description: "Create HTML report using SCAP Security Guide (SSG)"
+  job_type: "run"
+  inventory: "Workshop Inventory"
+  playbook: "playbooks/10_openscap.yml"
+  credential: "Workshop Credential"
+  survey_enabled: false
+  project:
+    name: "Ansible official demo project"
+    description: "prescriptive demos from Red Hat Management Buisness Unit"
+    organization: "Default"
+    scm_type: git
+    scm_url: "https://github.com/ansible/product-demos"
+  workshop_type:
+    - f5
+    - rhel
+    - rhel_90
